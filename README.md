@@ -1,5 +1,13 @@
 ## Bitacora Octubre   Verónica María Salmerón Urrea
 
+### DÍA 3   ----   FECHA 24/10/2025
+
+# ¿Qué estrategia usamos los humanos? (K o R)
+
+- Nuestra especie humana, somos una especie que seguimos la estrategia K, ya que nos interesa permanecer en un equilibrio constante y no sufrir cambios constantes a los que tenemos que adaptarnos, aunque la vida en algún momento impone algunos cambios donde nos tenemos que adaptar, pero siempre volveremos a nuestra estabilidad inicial.
+
+
+
 ### DÍA 2   ----   FECHA 17/10/2025
 
 # ¿Qué hacemos nosotros: Cooperamos o Competimos?
