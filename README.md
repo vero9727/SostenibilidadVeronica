@@ -1,5 +1,13 @@
 ## Bitacora Octubre   Verónica María Salmerón Urrea
 
+### DÍA 4   ----  FECHA 31/10/2025
+
+# Idea sostenible
+
+- Mi idea sostenible es el compostaje domestico de residuos organicos para reducir los desechos.
+
+
+
 ### DÍA 3   ----   FECHA 24/10/2025
 
 # ¿Qué estrategia usamos los humanos? (K o R)
