@@ -1,3 +1,86 @@
+
+NOVIEMBRE
+
+Fecha: 14/11/2025
+
+# Análisis del ciclo de vida
+
+- Herramientas que utilizamos para la vida diaria y las consecuencias que tiene sobre nosotros, despues de hacer el analisis por ejemplo para obtener los materiales para crear un telefono, se han consumido 80kg. Esquema que extrae los materiales para fabricar un telefono y las energias que existen a dia de hoy, posteriormente de la fabricación del telefono.
+
+¿De donde sale ese peso oculto? ¿Qué es?
+
+- Es cuando hay una diferencia muy grande de lo que hemos extraido de la naturaleza y el objeto que queremos obtener con esos materiales.
+
+- Del análisis de las etapas en la fabricación en este caso de un telefono, donde se analiza la obtención de las materias primas, energia utilizada, recursos, consecuencias de su fabricación y los residuos que deja.
+
+Hay distintas etapas:
+
+- Materias primas, fabricacion, distribucion, gestion final, uso
+
+
+Podemos comparar el peso oculto de diferentes objetos 
+
+- Ejemplo un telefono movil, tostadora, ordenador, etc.
+
+
+OPINION PERSONAL
+
+- En el caso del telefono al consumir un producto no reflexionamos en todas las consecuencias que conlleva su fabricación, el análisis del ciclo de vida hace pensar en que tenemos que prolongar lo maximo posible la vida util de un producto. Ya que como consumidores no nos damos cuenta de su impacto y los residuos que genera.
+
+
+![alt text](image.png)
+
+# Pregunta a la IA una de las fases del Análisis del ciclo de vida, el peso oculto, los materiales extraidos y los residuos generados.
+
+
+🔹 Peso oculto total 
+
+≈ 70–90 kg de materiales movilizados por cada teléfono.
+
+
+🛠️ 1. Materiales movilizados
+
+Total: 50–60 kg, procedentes de:
+
+Metales: 35–45 kg -> Cobre, Estaño, Aluminio, cobalto, etc.
+
+Batería: 10–15 kg -> Litio, Niquel, Grafito, etc
+
+Pantalla: 5–10 kg -> Vidrio, Silicio, tinta conductora, etc.
+
+Plásticos: 2–4 kg -> Policarbonato, polimeros del petroleo, Abs , etc.
+
+
+⚡ 2. Energía utilizada
+
+≈ 200–350 MJ por teléfono
+
+La energía más utilizada: Electricidad generada con combustibles fósiles (carbón y gas natural)
+
+Representa 60–80% del total de la energía consumida en la cadena de producción.
+
+
+🗑️ 3. Residuos generados
+
+Residuos mineros: 40–60 kg
+
+Residuos industriales químicos: 0.5–1.5 kg
+
+Residuos electrónicos finales: 150–200 g (si no se recicla)
+
+
+Como conclusión:
+
+Un móvil de 180 g requiere 70–90 kg de materiales movidos, consume energía dominada por electricidad procedente de carbón y gas natural, y genera decenas de kilos de residuos mineros.
+
+
+
+
+
+
+
+
+
 ## Bitacora Octubre   Verónica María Salmerón Urrea
 
 ### DÍA 4   ----  FECHA 31/10/2025
