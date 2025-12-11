@@ -1,10 +1,27 @@
 
 # NOVIEMBRE
 
+# La huella ecologica y la huella de carbono  Fecha:02/12/2025 (Falté a clase)
 
-**Fecha: 28/11/2025**
+**La huella ecologica**
+Mide el espacio que necesitamos para producir nuestra comida, vestirnos, tener energía y manejar nuestros desechos.
 
-# Economía lineal vs Circular
+**La huella de carbono**
+Se enfoca en la cantidad de gases que emitimos a la atmósfera, especialmente el CO₂, cuando usamos transporte, electricidad o producimos bienes.
+
+## ¿Cual es mi huella de carbono?
+
+Personalmente mi huella de carbono puede ser de 2,5 toneladas de CO2 al año, por ejemplo no utilizo un transporte, solo caminando.
+La compra la hago 1 vez a la semana y procuro cocinar con alimentos frescos.
+La electricidad que consumo es el promedio de lo que consume una unica persona.
+Y tampoco hago muchas compras de ropa u otros objetos, solo lo necesario.
+
+
+
+![alt text](image-2.png)
+
+
+# Economía lineal vs Circular  Fecha: 28/11/2025
 
 ## Economía lineal
 La **economía lineal** se basa en un flujo unidireccional de recursos, ignorando los límites planetarios y priorizando la velocidad de producción sobre la sostenibilidad.  
@@ -73,9 +90,9 @@ Como opinión personal yo creo que lo mejor sería una combinación de ambos enf
 
 
 
-**Fecha: 14/11/2025**
 
-# Análisis del ciclo de vida
+
+# Análisis del ciclo de vida  Fecha: 14/11/2025
 
 - Herramientas que utilizamos para la vida diaria y las consecuencias que tiene sobre nosotros, despues de hacer el analisis por ejemplo para obtener los materiales para crear un telefono, se han consumido 80kg. Esquema que extrae los materiales para fabricar un telefono y las energias que existen a dia de hoy, posteriormente de la fabricación del telefono.
 
