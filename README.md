@@ -1,6 +1,48 @@
 
 # NOVIEMBRE
 
+
+# Cambio Climático: El multiplicador de amenazas 
+# Fecha: 12/12/2025
+
+Es un analisis que abordan los impactos que conectan un planeta en calentamiento con los sistemas que definen nuestro futuro.
+El cambio climático actúa como un multiplicador de amenazas porque intensifica problemas ya existentes como la escasez de agua, la inseguridad alimentaria, los conflictos sociales y las crisis económicas haciéndolos más frecuentes y más difíciles de gestionar. No crea todas las crisis por sí mismo, pero las amplifica y acelera
+
+**Resumen de lo hablado en clase**
+La quema de combustibles fósiles modifica la composición de la atmósfera, aumentando el efecto invernadero y acelerando el calentamiento global.
+
+Los estudios muestran que el cambio climático incrementa las muertes por eventos extremos, afecta empleos en sectores sensibles, amplía la población vulnerable y eleva los costes sanitarios.
+
+Las alteraciones en el clima reducen la disponibilidad de agua y la producción de alimentos, generando tensiones que impulsan desplazamientos y migraciones.
+
+La transición implica inversiones y riesgos económicos, pero la inacción genera daños físicos mucho más costosos y persistentes.
+
+Los países compiten por recursos estratégicos y nuevas oportunidades, reconfigurando equilibrios de poder a medida que el clima cambia.
+
+Exigen transformar el sistema energético mediante renovables, movilidad sostenible, eficiencia energética y estrategias de economía circular.
+
+
+![alt text](image-3.png)
+
+
+## ¿Cual es el principal emisor de CO2?
+El principal emisor son las empresas productoras y uso de energía, por ejemplo; El transporte, Industrias pesadas de acero o cemento y centrales de carbón, gas y petroleo.
+En cuanto a paises el mayor productor actualmente de CO2 es china, con un 30% de emisiones debido a su indrustria y la dependencia de combustibles fósiles para energía.
+
+
+
+## ¿que puedo hacer yo como programadpor para mitigar el cambio climatico?
+
+Pienso que reducir el tiempo de procesamiento, energia o infraestructura ayudaría. 
+Algunas ideas podrían ser optimizar el consumo de memorias o CPU/GPU para que utilicen menos energía, utilizar infraestructura en la nube, hacer teletrabajo que evitan viajes o infraestructura fisica. 
+
+
+Ejemplo: OpenIA necesita optimizar la consumicion de recursos como la energia utilizada o agua por cunsulta. El creador de OPENIA dió la idea de que utilizará una fusión nuclear para alimentar los centros de datos o colocar centros de datos en el espacio aprovechando energia solar.
+
+
+
+
+
 # La huella ecologica y la huella de carbono  Fecha:02/12/2025 (Falté a clase)
 
 **La huella ecologica**
