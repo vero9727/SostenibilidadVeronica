@@ -1,6 +1,16 @@
 
 # NOVIEMBRE
 
+## Fatberg
+# Fecha: 19/12/2025
+
+**Resumen de lo hablado en clase**
+Un FATBERG es un bloque endurecido de residuos como toallitas, que al tirarlo las personas por cualquier desague del hogar, estos residuos llegan al alcantarillado y se van acumulando 
+ hasta formar una montaña de residuos con grasas, es uno de los principales problemas que encuentran los trabajadores de mantenimiento de alcantarillados.
+
+
+![alt text](image-4.png)
+
 
 # Cambio Climático: El multiplicador de amenazas 
 # Fecha: 12/12/2025
