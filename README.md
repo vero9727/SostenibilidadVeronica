@@ -1,4 +1,59 @@
 
+# Enero
+
+## Contaminación y residuos: Huella digital y Física
+# Fecha: 09/01/2026
+
+**Resumen de lo hablado en clase**
+
+
+**Contaminación por residuos y desechos**
+
+ Tenemos que convertir un residuo en una oportunidad de aprovechamiento, por ejemplo las peladuras de zanahoria que se suelen tirar se pueden utilizar para hacer compost y eso reduce los residuos y se puede aprovechar ademas de otros beneficios.
+
+![alt text](image-5.png)
+
+ - Los residuos electronicos se pueden aprovechar por sus componentes electronicos internos, aprovechando materiales como el oro, cobre, plata, platino, baterias o cables. Esto ayuda a reducir la contaminación y ahorrar recursos naturales.
+
+
+**Disruptores endocrinos**
+
+ - Las hormonas son las señales de las celulas que envian señales al cerebro y hay diferentes tipos de señales, algunos microplásticos contienen sustancias químicas que imitan o interfieren con las hormonas, actuando como disruptores endocrinos.
+
+Estas alteraciones hormonales que producen los microplasticos pueden causar:
+
+ Efectos de problemas de fertilidad, malformaciones.
+ Bioacumulacion: Los toxicos se acumulan en las grasas y ascienden por la cadena trofica.
+ 
+
+
+**Contaminación de rios**
+
+ - Contaminacion de residuos de hidrocarburos por empresas en los rios y esto provoca incendios en rios y su contaminación.
+ - Debido a creencias religiosas, por ejemplo los Indús se bañan en rios cubiertos con espuma toxica de vertidos industriales, o incluso tiran las cenizas de fallecidos en los rios.
+
+
+
+**Industria textil**
+
+La industria textil es de las más contaminantes del mundo y se pueden formar toneladas de estos residuos o desechos en los vertederos, si tiramos los desechos textiles en contenedores aptos para ello otras personas o empresas lo pueden reutilizar.
+
+
+
+
+**Pregunta de la semana**  **¿Por qué cambiaste de movil?**
+
+
+Yo cambié mi último móvil porque se me rompió, pero no físicamente, sino porque tenía muchos años y el sistema ya no respondía ni funcionaba.
+He tenido muy pocos teléfonos porque me suelen durar muchos años y tampoco soy partidaria de comprar teléfonos de alta gama cada vez que sale uno nuevo solo por las marcas.
+
+Los teléfonos se pueden vender o reutilizar; por ejemplo, en las familias (si el teléfono funciona) lo puede heredar otra persona. También se puede vender para ser reutilizado o para aprovechar sus componentes electrónicos.
+
+
+
+
+
+
 # NOVIEMBRE
 
 ## Fatberg
