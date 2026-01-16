@@ -1,6 +1,35 @@
 
 # Enero
 
+
+## Agenda 2030 y los objetivos de desarrollo sostenible
+
+La Agenda 2030 consiste en establecer objetivos para promover el desarrollo sostenible, es un plan global adoptado por la ONU para lograr un desarrollo sostenible en todo el mundo a través de 17 Objetivos de Desarrollo Sostenible.
+
+
+El éxito de un objetivo depende del progreso en otros. Hay 169 metas específicas, medidas a través de 232 indicadores globales.
+
+Para gestionar los 17 ODS, se agrupan en tres dimensiones, reflejando el enfoque ASG (Ambiental, Social y de Gobernanza):
+
+- Social: Hambre 0, educación de calidad, igualdad de género, salud y bienestar.
+
+- Ambiental: Acción por el clima, energía limpia, agua limpia, vida submarina y terrestre.
+
+- Gobernanza/Económica: Trabajo decente, crecimiento económico, industria, innovación y reducción de desigualdades.
+
+
+**Pregunta de la semana** **¿Se van a conseguir los objetivos de desarrollo sostenible? ¿ El hecho de que se cumplan o no es importante?**
+
+No está garantizado que se vayan a cumplir todos los objetivos, se han logrado algunos objetivos pero, hay objetivos que son dificiles de cumplir por ejemplo la pobreza o el cambio climatico.
+
+Pienso que es importante que se puedan cumplir la mayor cantidad de objetivos posibles, ya que mejora la vida de las personas y tambien al planeta.
+
+
+![alt text](image-6.png)
+
+
+
+
 ## Contaminación y residuos: Huella digital y Física
 # Fecha: 09/01/2026
 
