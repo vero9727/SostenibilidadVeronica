@@ -1,6 +1,26 @@
 
 # Enero
 
+## Plan de sostenibilidad empresarial
+
+La calidad es subjetiva ya que depende de la percepción de cada persona, para uno la calidad seria el material y para otra persona el precio y las empresas deben conocer y adaptar sus productos o servicios a las expectativas de sus usuarios.
+
+Las ISO cumplen la ley al proporcionar estándares internacionales que ayudan a las empresas a cumplir con la normativa.
+
+Para que una empresa sea sostenible debe identificar su problema, debe analizar los riesgos y oportunidades relacionados con el medio ambiente, la sociedad y la economía, para poder implementar estrategias que reduzcan impactos negativos y maximicen beneficios a largo plazo.
+
+Plan de sostenibilidad: consiste en realizar un diagnóstico inicial de la empresa, identificar los grupos de interés, evaluar la materialidad de los temas relevantes, definir acciones concretas y métricas para medir resultados, y aplicar criterios ASG (Ambientales, Sociales y de Gobernanza) para asegurar un desarrollo responsable y sostenible.
+
+
+
+**¿ Los planes de sostenibilidad empresariales Es greenwashing - O sostenibilidad real?**
+
+
+Los planes de sostenibilidad pueden ser greenwashing si solo buscan mejorar la imagen de la empresa sin generar cambios reales y solo por puro beneficio, ya que la sostenibilidad real implica compromiso, acciones concretas y actuar de verdad no solo hablar.
+
+
+![alt text](<plan sostenibilidad empresarial.png>)
+
 
 ## Agenda 2030 y los objetivos de desarrollo sostenible
 
